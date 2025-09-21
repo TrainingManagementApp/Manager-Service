@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.capstone.Manager</groupId>
 	<artifactId>Manager-Service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Manager-Service</name>
 	<description>Manager-Service</description>
 	<url/>
